@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Summer Camp"
-summary: "A really nice camp"
+title: "Interactive Digital Media Capstone"
+summary: ""
 authors: []
-tags: ["Summer"]
+tags: ["LSU Electives"]
 categories: []
-date: 2020-07-08T15:29:55-05:00
+date: 2020-07-10T17:23:25-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

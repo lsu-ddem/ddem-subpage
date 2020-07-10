@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Project Name"
-summary: "some cool projects"
+title: "Digital Image and Motion Graphics"
+summary: ""
 authors: []
-tags: ["Deep Learning"]
+tags: ["LSU Electives"]
 categories: []
-date: 2020-07-08T15:24:18-05:00
+date: 2020-07-10T17:23:49-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "a project"
+  caption: ""
   focal_point: ""
   preview_only: false
 
